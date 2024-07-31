@@ -3,7 +3,7 @@
 <p>I'm currently an undergraduate studying computer science, with an anticipated graduation date of May 2027.</p>
 <p>I became interested in programming after learning how to mod Cyberpunk 2077 and seeing what was possible through the work of the many skilled programmers within the modding community.</p>
 
-<h2>Languages I'm Studying:</h2>
+## **Languages I'm Studying:**
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML"/>
@@ -15,3 +15,4 @@
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="Visual Studio Code"/>
 </p>
+
