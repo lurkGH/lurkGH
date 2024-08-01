@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:03346E,100:6EACDA&text=About%20Me&reversal=false&section=header&fontColor=FFFFFF&stroke=021526&strokeWidth=0.75)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=0:03346E,60:6EACDA&text=About%20Me&fontSize=90&fontColor=FFFFFF&descAlignY=50&fontAlignY=60&stroke=000000&strokeWidth=0.1&textBg=false)
 
 <p>I'm currently an undergraduate studying computer science, with an anticipated graduation date of May 2027.</p>
 <p>I became interested in programming after learning how to mod Cyberpunk 2077 and seeing what was possible through the work of the many skilled programmers within the modding community.</p>
