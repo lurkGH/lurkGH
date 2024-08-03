@@ -12,7 +12,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" title="JavaScript" alt="JavaScript"/>
 </p>
 
-## **Tools/Frameworks I'm Using:**
+## **Tools/Frameworks I'm Learning:**
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" title="Visual Studio Code" alt="Visual Studio Code"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="50" title="Bash" alt="Bash"/>
