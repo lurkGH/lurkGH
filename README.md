@@ -2,6 +2,7 @@
 
 <p>I'm currently an undergraduate studying computer science, with an anticipated graduation date of May 2028.</p>
 <p>I became interested in programming after learning how to mod Cyberpunk 2077 and seeing what was possible through the work of the many skilled programmers within the modding community.</p>
+<p>Still very early in the learning process, but I'm hoping to get a lot better by simply diving headfirst into things--even if my first few projects are a bit amateurish! 😅</p>
 
 ## **Languages I'm Studying:**
 <p>
