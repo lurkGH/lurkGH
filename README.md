@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=0:03346E,60:6EACDA&text=About%20Me&fontSize=90&fontColor=FFFFFF&descAlignY=50&fontAlignY=60&stroke=000000&strokeWidth=0.1&textBg=false)
+<div align="center">
+  <img src="./github-header-image.png" alt="Header">
+</div>
+
+<br/>
 
 <p>I'm currently an undergraduate studying computer science, with an anticipated graduation date of May 2028.</p>
 <p>I became interested in programming after learning how to mod Cyberpunk 2077 and seeing what was possible through the work of the many skilled programmers within the modding community.</p>
