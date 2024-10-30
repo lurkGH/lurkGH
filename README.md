@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" title="React" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" title="Node.js" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" title="PostgreSQL" alt="PostgreSQL"/>
-<img src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23128574" height="50" title="LaTeX" alt="LaTeX"></img>
 </div>
 
 ## **Past Experience With:**
@@ -31,4 +30,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="50" title="Godot/GDScript" alt="Godot/GDScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" title="Python" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="50" title="Lua" alt="Lua"/>
+  <img src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23128574" height="50" title="LaTeX" alt="LaTeX"></img>
 </div>
