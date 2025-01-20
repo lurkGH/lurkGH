@@ -3,7 +3,7 @@
 </header>
 
 <main>
-    <p>I'm currently an undergraduate studying computer science. I will be receiving an Associate of Science degree in Computer Science in May 2025, and I should have my Bachelor of Science in CS in 2027.</p>
+    <p>I'm currently an undergraduate studying computer science. I am presently on track to earn an Associate of Science degree in Computer Science in May 2025, and I should have my Bachelor of Science in CS in 2027.</p>
     <p>My plan is to build a strong foundation in full-stack web development, with an emphasis on back-end technologies, before specializing in cybersecurity.</p>
     <p>I became interested in programming after learning how to make mods for video games like Cyberpunk 2077 and seeing what was possible through the work of the many skilled programmers within the modding community.</p>
     <p>Still very early in the learning process, but I'm hoping to get a lot better by simply diving headfirst into things--even if my first few projects are a bit amateurish! 😅</p>
