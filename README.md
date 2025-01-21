@@ -30,6 +30,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" title="C++" alt="C++"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="50" title="Lua" alt="Lua"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="50" title="Godot/GDScript" alt="Godot/GDScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50" title="Sass" alt="Sass"/>
 </div>
 
 ## **Future Learning Goals:**
@@ -39,6 +40,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="50" title="Bash" alt="Bash"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="50" title="PowerShell" alt="PowerShell"/>
 </div>
+
+---
 
 <div align="center">
   <p>Feel free to connect with me!</p>
